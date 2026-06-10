@@ -1,0 +1,18 @@
+# vocabulary scrapping files to be put in raw data folder
+*.jsonl
+
+# model files
+*.pt
+
+# generated word groups
+word_groups_out*/
+
+#files to put in processed data folder
+corpus.txt
+concepts.txt
+vectors_imbued.txt
+word_group_ids.txt
+trainingdata.csv
+
+/output*
+/output
